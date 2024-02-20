@@ -1,6 +1,6 @@
 # Previsão de preço
 
-Projeto para desenvolver um modelo de previsão de preços.
+O projeto consiste em analisar dados relacionados a acomodações e desenvolver um modelo de previsão de preços.
 
 ## Pré-requisitos
 
